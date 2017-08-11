@@ -51,6 +51,6 @@ After noise is reduced the cloud can be further procesed by downsampling, this w
   ![](pics/testworld3.png)
 ## Final Notes
 
-The output yaml files are located in the Udacity_Project_Files folder along with the training set, classifier model, and all relevant scripts. I am very pleased with the results of my pipeline, and it seems fairy robust. If I were to persure the project further I'd definately want to implement the pick and place portion. 
+The output yaml files are located in the Udacity_Project_Files folder along with the training set, classifier model, and all relevant scripts. I am very pleased with the results of my pipeline, and it seems fairy robust. If I were to persure the project further I'd definately want to implement the pick and place portion. The script containing the perception steps is called Perception.py. 
   
   
